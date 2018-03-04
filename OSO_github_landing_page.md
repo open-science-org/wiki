@@ -1,4 +1,4 @@
-Open Science Organization (OSO) is a non-profit Decentralized Autonomous Organization (DAO) that manages an open, democratic, and efficient scientific ecosystem. www.oso.network
+Open Science Organization (OSO) is a non-profit Decentralized Autonomous Organization (DAO) to create and manage an open, democratic, and efficient scientific ecosystem. www.oso.network
 
 **Whitepaper** https://github.com/open-science-org/wiki/wiki/OSO-Whitepaper
 
