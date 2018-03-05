@@ -7,7 +7,7 @@ Open Science Organization (OSO) is a non-profit Decentralized Autonomous Organiz
 
 # Projects
 1. Unique Researcher Identity (URI); https://github.com/open-science-org/URI; Contact: Keith Smith
-2. Decentralized Publication Storage; https://github.com/open-science-org/pub-storage; Contact: Abinash Koirala and Kirk Gosik
+2. Decentralized Publication Storage; https://github.com/open-science-org/pub-hub; Contact: Abinash Koirala and Kirk Gosik
 3. Decentralized Peer Review System; Contact: TBD (can be combined with 2)
 4. Interplanetary Idea System (IPIS); https://github.com/open-science-org/IPIS; Contact: Gajendra Katuwal
 5. Researcher Index (RR-index); https://github.com/open-science-org/RR-index; Contact: Gajendra Katuwal
