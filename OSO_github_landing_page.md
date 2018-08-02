@@ -1,4 +1,7 @@
-Open Science Organization (OSO) is a non-profit Decentralized Autonomous Organization (DAO) to create and manage an open, unbiased, and efficient scientific ecosystem. www.oso.network
+Open Science Organization (OSO) is a non-profit organization of researchers and stakeholders to make science open, unbiased, and efficient. www.oso.network      
+At OSO, we are developing a common platform for research ecosystem where all the activities in a research cycle (fund->research->review->publish) can be performed in one place. 
+
+The OSO platform is open-source, community owned and managed, and decentralized (based on web3 technology).
 
 **Whitepaper** https://github.com/open-science-org/wiki/wiki/OSO-Whitepaper
 
@@ -9,12 +12,17 @@ Open Science Organization (OSO) is a non-profit Decentralized Autonomous Organiz
 1. Unique Researcher Identity (URI); https://github.com/open-science-org/URI; Contact: Keith Smith and Zheng Liu
 2. Decentralized Knowldege Repo; https://github.com/open-science-org/pub-hub; Contact: Abinash Koirala and Kirk Gosik
 3. Decentralized Peer Review System; Contact: TBD (will be combined with 2)
-4. Generalized Idea Protocol; https://github.com/open-science-org/GIP; Contact: Gajendra Katuwal; (will be combined with 2)
+4. Generalized Idea Protocol (GIP); https://github.com/open-science-org/GIP; Contact: Gajendra Katuwal; (will be combined with 2)
 5. Researcher Index (RR-index); https://github.com/open-science-org/RR-index; Contact: Gajendra Katuwal
-
 
 # Team
 https://github.com/open-science-org/admin/blob/master/team/team.md
+
+# Social Media
+Social media accounts https://github.com/open-science-org/admin/blob/master/social_media/accounts.md   
+Follow us in twitter https://twitter.com/OpenScienceOrg    
+Add yourself as a OSO member in linkedin  https://www.linkedin.com/company/open-science-organization/   
+Post your blogs on our medium publishing platform https://medium.com/openscienceorg
 
 # Want to contribute to Open Science?
 ### Contributing to existing projects: 
