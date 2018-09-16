@@ -7,7 +7,7 @@ The OSO platform is open-source, community owned and managed, and decentralized 
 **Whitepaper(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_white_paper.pdf
 [This whitepaper describes the general principles of OSO]
 
-**Whitepaper new(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_white_paper.pdf
+**Whitepaper new(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_Idea_Platform_whitepaper.pdf
 [This whitepaper is geared towards solving the funding problem in scientific research]
 
 
