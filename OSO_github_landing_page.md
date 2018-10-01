@@ -3,9 +3,13 @@ At OSO, we are developing a common platform for research ecosystem where all the
 
 The OSO platform is open-source, community owned and managed, and decentralized (based on web3 technology).
 
-**Whitepaper** https://github.com/open-science-org/wiki/wiki/OSO-Whitepaper
 
 **Whitepaper(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_white_paper.pdf
+[This whitepaper describes the general principles of OSO]
+
+**Whitepaper new(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_Idea_Platform_whitepaper.pdf
+[This whitepaper is geared towards solving the funding problem in scientific research]
+
 
 
 # Projects
