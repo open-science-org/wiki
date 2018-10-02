@@ -10,7 +10,7 @@ The OSO platform is open-source, community owned and managed, and decentralized 
 **Whitepaper new(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_Idea_Platform_whitepaper.pdf
 [This whitepaper is geared towards solving the funding problem in scientific research]
 
-**Proof of Idea(pdf)** https://github.com/open-science-org/wiki/blob/master/Proof_of_Idea.pdf Proof of Idea is an alogrithm to curate a list/graph of ideas of desired attributes in a decentralized fashion.
+**Proof of Idea(pdf)** https://github.com/open-science-org/wiki/blob/master/Proof_of_Idea.pdf Proof of Idea is an alogrithm to curate a list/graph of ideas with desired attributes in a decentralized fashion.
 
 # Projects
 1. Unique Researcher Identity (URI); https://github.com/open-science-org/URI; Contact: Keith Smith and Zheng Liu
