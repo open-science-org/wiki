@@ -1,8 +1,10 @@
-Open Science Organization (OSO) is a non-profit organization of researchers and stakeholders to make science open, unbiased, and efficient. www.oso.network      
-At OSO, we are developing a common platform for research ecosystem where all the activities in a research cycle (fund->research->review->publish) can be performed in one place. 
+Open Science Organization (OSO) is a non-profit decentralized autonomous organization (DAO) with an aim make science open, unbiased, and efficient. OSO is developing a decentralized platform for research ecosystem where all the activities in a research cycle (fund->research->review->publish) can be performed.
 
 The OSO platform is open-source, community owned and managed, and decentralized (based on web3 technology).
 
+**Governance** OSO is a DAO that will be governed by the entities that have made intellectual contributions (e.g. by submitting publications, data, etc.) to the OSO ecosystem. The voting power of an entity during the governance process will be proportional to its intellectual process.
+
+**Website** www.oso.network      
 
 **Whitepaper(pdf)** https://github.com/open-science-org/wiki/blob/master/OSO_white_paper.pdf
 [This whitepaper describes the general principles of OSO]
@@ -14,10 +16,10 @@ The OSO platform is open-source, community owned and managed, and decentralized 
 
 # Projects
 1. Unique Researcher Identity (URI); https://github.com/open-science-org/URI; Contact: Keith Smith and Zheng Liu
-2. Decentralized Knowldege Repo; https://github.com/open-science-org/pub-hub; Contact: Abinash Koirala and Kirk Gosik
-3. Decentralized Peer Review System; Contact: TBD (will be combined with 2)
-4. Generalized Idea Protocol (GIP); https://github.com/open-science-org/GIP; Contact: Gajendra Katuwal; (will be combined with 2)
-5. Researcher Index (RR-index); https://github.com/open-science-org/RR-index; Contact: Gajendra Katuwal
+2. Idea-Hub: Decentralized Knowldege Repo; https://github.com/open-science-org/idea-hub; Contact: Abinash Koirala and Kirk Gosik
+3. Proof of Idea; https://github.com/open-science-org/wiki/blob/master/Proof_of_Idea.pdf Contact: Gajendra Katuwal
+3. Generalized Idea Protocol (GIP); https://github.com/open-science-org/GIP; Contact: Gajendra Katuwal; (will be combined with 2)
+4. Researcher Index (RR-index); https://github.com/open-science-org/RR-index; Contact: Gajendra Katuwal
 
 # Team
 https://github.com/open-science-org/admin/blob/master/team/team.md
