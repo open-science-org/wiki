@@ -23,7 +23,9 @@ The OSO platform is open-source, community owned and managed, and decentralized 
 | --- | --- | --- |
 | Idea attribution and value flow | [OIP-14](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-14.md) | Generalized Idea Protocol (GIP), Proof of Idea |
 | Tokens and minting | [OIP-8](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-8.md) | Proof of Idea |
-| Submission routing: validation and peer review | [OIP-11](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-11.md) | Idea-Hub, Proof of Idea |
+| Idea object | [OIP-16](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-16.md) | Generalized Idea Protocol (GIP) |
+| Submission routing: validation | [OIP-11](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-11.md) | Idea-Hub, Proof of Idea |
+| Peer review and ratings | [OIP-17](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-17.md) | Proof of Idea, white paper (open and perpetual review) |
 | Ownership and identity | [OIP-10](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-10.md) | Unique Researcher Identity (URI) |
 | Reputation and expertise | [OIP-9](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-9.md) | Researcher Index (RR-index) |
 | Modules and community setups | [OIP-12](https://github.com/open-science-org/OIPs/blob/master/OIPS/oip-12.md) | Custom validation layers (OIP-5) |
